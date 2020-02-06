@@ -36,4 +36,5 @@ process.env.URLDB = urlDB
 //=====================================
 //Base de datos
 //=====================================
-process.env.CLIENT_ID = process.env.CLIENT_ID || '630080066536-uglqjsede0hcaoorlauht8ta5s6govl1.apps.googleusercontent.com'
+// esto no sirve pues hay que crear el cliente_ID reguistrando todos los citios permitido o si no no funciona  
+//process.env.CLIENT_ID = process.env.CLIENT_ID || '630080066536-uglqjsede0hcaoorlauht8ta5s6govl1.apps.googleusercontent.com'
