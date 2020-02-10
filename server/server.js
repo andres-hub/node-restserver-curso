@@ -13,7 +13,7 @@ app.use(bodyParser.json())
 
 //habilitar la carpeta public
 app.use(express.static(path.resolve(__dirname, '../public')))
-console.log(path.resolve(__dirname, '../public'))
+    //console.log(path.resolve(__dirname, '../public'))
     //Configuracion global de rutas
 app.use(require('./routes/index'))
 
