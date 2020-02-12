@@ -1,1 +1,7 @@
 node_modules/
+uploads/productos/*.jpg
+uploads/productos/*.png
+uploads/productos/*.gif
+uploads/usuarios/*jpg
+uploads/usuarios/*gif
+uploads/usuarios/*png
